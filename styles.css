@@ -121,8 +121,9 @@ body {
 
 .card-footer span {
     color: #111111;
+    line-height: 150%;
     font-weight: 800;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 
